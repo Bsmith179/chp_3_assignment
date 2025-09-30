@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Lab3_Bsmith179-2</string>
-    <string name="tvTitle">Company Name</string>
+    <string name="tvTitle">The Ticket Place</string>
     <string name="tvTickets">Number of Tickets</string>
     <string name="prompt">Select Ticket Type</string>
     <string name="btCost">Find Cost</string>
 
     <string-array name="svTicketTypes">
-        <item>Child</item>
         <item>Adult</item>
-        <item>Senior></item>
+        <item>Child</item>
+        <item>Senior</item>
     </string-array>
 
 </resources>
