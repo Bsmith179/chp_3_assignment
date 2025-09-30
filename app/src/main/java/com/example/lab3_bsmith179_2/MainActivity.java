@@ -8,7 +8,6 @@
 package com.example.lab3_bsmith179_2;
 
 import android.os.Bundle;
-
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
