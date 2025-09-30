@@ -1,7 +1,7 @@
 /**
  * Brigitte Smith
  * Lab 3 - Ticketing App
- * Summery goes here
+ * On launch opens a single page calculator to determine the cost of multiple types and amounts of tickets for sale.
  * 09/27/2025
  */
 
