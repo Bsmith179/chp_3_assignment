@@ -1,3 +1,10 @@
+/**
+ * Brigitte Smith
+ * Lab 3 - Ticketing App
+ * Summery goes here
+ * 09/27/2025
+ */
+
 package com.example.lab3_bsmith179_2;
 
 import android.os.Bundle;
